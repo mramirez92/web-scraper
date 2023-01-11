@@ -14,4 +14,4 @@ env required to run scraper.py with the following requirements:
   - parse
 
 ## Tests
-I tested by using different links stored in the url variable, links provided in a seperate file for testing. 
+I tested by using different links stored in the url variable.

@@ -5,20 +5,13 @@ Author: Monica Ramirez
 ## Links and Resources
 
 ✨[Beautiful Soup](https://www.crummy.com/software/BeautifulSoup/bs4/doc/#installing-beautiful-soup)✨
-
-back-end server url (when applicable)
-front-end application (when applicable)
+🌐[Wikipedia](https://en.wikipedia.org/wiki/Main_Page)
 
 ## Setup
-.env requirements (where applicable)
-i.e.
+env required to run scraper.py with the following requirements:
+  - bS4
+  - requests
+  - parse
 
-PORT - Port Number
-
-How to initialize/run your application (where applicable)
-e.g. python main.py
-How to use your library (where applicable)
 ## Tests
-How do you run tests?
-Any tests of note?
-Describe any tests that you did not complete, skipped, etc
+I tested by using different links stored in the url variable, links provided in a seperate file for testing. 

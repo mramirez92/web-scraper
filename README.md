@@ -15,3 +15,4 @@ env required to run scraper.py with the following requirements:
 
 ## Tests
 I tested by using different links stored in the url variable.
+[Code](https://github.com/mramirez92/web-scraper/blob/main/scraper.py)
